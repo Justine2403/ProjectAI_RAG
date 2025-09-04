@@ -14,7 +14,7 @@ There are frameworks that replicate this kind of workflow, including LlamaIndex 
 The working project but which has not been finalized is the notebook called [`Jack_RAG_project`](/Jack_RAG_project.ipynb).
 
 - What is the current state of the project? <br>
-Curerntly, the RAG pipeline is perfectly working fine in the Python notebook.
+Currently, the RAG pipeline is perfectly working fine in the Python notebook.
     - [x] Preprocessing of the data (sentences in a pdf file).
     - [x] Creating embeddings of the text
     - [x] Loading the model (Gemma-2B)
